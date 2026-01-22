@@ -7,7 +7,6 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
 
 ## 🌎 Encontre-me na web
 - ✉️ ticyoliveiraticy@gmail.com
-- 📚 [Curriculum](curriculum.md)
 
 <!-- <div align="left">
   <a href="https://www.linkedin.com/in/ticyaneoliveira/">
